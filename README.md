@@ -1,4 +1,6 @@
 # leetcode
 solving leetcode problems
 
-[![Wdmoney's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Wdmoney&theme=dark)](https://github.com/wdmoney/leetcode)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Wdmoney?theme=light&font=Unna&ext=heatmap)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Wdmoney?theme=light&font=Unna&ext=activity)
